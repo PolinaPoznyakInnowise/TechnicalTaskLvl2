@@ -1,0 +1,21 @@
+# User settings
+xcuserdata/
+*.swp
+*~
+.DS_Store
+._*
+*.log
+
+# Build generated
+build/
+DerivedData/
+
+# Obj-C/Swift specific
+*.hmap
+*.ipa
+
+# Archive files
+*.xcarchive
+
+# Temporary files
+*.tmp
